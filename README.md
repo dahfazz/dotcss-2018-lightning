@@ -1,1 +1,1 @@
-# dotcss-2018-lightning
+# Don't write HTML the way George Lucas wrote Star Wars
