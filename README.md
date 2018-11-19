@@ -2,5 +2,5 @@
 
 ## Files
 
-[Apple Keynote](https://github.com/dahfazz/dotcss-2018-lightning/blob/master/slides.key)
-[PDF](https://github.com/dahfazz/dotcss-2018-lightning/blob/master/slides.pdf)
+- [Apple Keynote](https://github.com/dahfazz/dotcss-2018-lightning/blob/master/slides.key)
+- [PDF](https://github.com/dahfazz/dotcss-2018-lightning/blob/master/slides.pdf)
